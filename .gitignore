@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Don't ignore directories (so .git can track folder structure)
+!*/
+
+# Don't ignore Markdown files
+!*.md
